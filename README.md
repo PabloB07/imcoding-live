@@ -1,4 +1,4 @@
-# Middleman Example
+# Imcoding-live
 
 This directory is a brief example of a [Middleman](https://middlemanapp.com/) site that can be deployed to Vercel with zero configuration.
 
